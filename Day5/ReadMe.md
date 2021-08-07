@@ -10,5 +10,5 @@ Loops are a way to repeatedly execute some code.
 List comprehensions are one of Python's most beloved and unique features. The easiest way to understand them is probably to just look at a few examples:
 
 ```squares = [n**2 for n in range(10)]
-squares```
-```[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]```
+squares
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]```
