@@ -6,3 +6,9 @@ Machine learning works the same way. We'll start with a model called the Decisio
 # Basic Data Exploration
 The first step in any machine learning project is familiarize yourself with the data. You'll use the Pandas library for this. Pandas is the primary tool data scientists use for exploring and manipulating data. Most people abbreviate pandas in their code as pd. We do this with the command
 ```import pandas as pd```
+
+## melb_data.csv:
+Data about home prices in Melbourne, Australia
+
+## train.csv:
+Data used to fit the model
