@@ -1,8 +1,8 @@
 # Your First Machine Learning Model
-### Selecting Data for Modeling
-### Selecting The Prediction Target
-### Choosing "Features"
-### Building Model
+Selecting Data for Modeling
+Selecting The Prediction Target
+Choosing "Features"
+Building Model
 
 # Model Validation
 ## What is Model Validation
